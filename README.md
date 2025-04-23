@@ -25,5 +25,5 @@ Finally, run the **Regression R script**. This script uses the outputs from prev
 ---
 
 ### Note
-The Excel file **"mp_multiplicator.xlsx"** contains the process of data cleaning for the stepwise regression. Additionally, there is a separate sheet within this file for the **multipliers of monetary policy**, which were used to analyze the magnitudes and other related metrics.
+The Excel file **"mp_multiplicator.xlsx"** contains the process of data cleaning for the stepwise regression. Additionally, there is a separate sheet within this file for the **multipliers of monetary policy**, which were used to analyze the magnitudes etc.
 
